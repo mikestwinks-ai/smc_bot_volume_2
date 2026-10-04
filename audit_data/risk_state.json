@@ -1,0 +1,11 @@
+{
+  "day": "2026-06-02",
+  "trades_today": 2,
+  "closed_trades_today": 1,
+  "daily_pnl": -19.7,
+  "consecutive_losses": 1,
+  "peak_balance": 5000.0,
+  "peak_equity": 5002.46,
+  "active_risk_pct": 0.5,
+  "bot_halted": false
+}

@@ -1,0 +1,30 @@
+{
+  "2802137567": {
+    "ticket": 2802137567,
+    "direction": "bullish",
+    "entry": 4535.505,
+    "initial_sl": 4515.805,
+    "initial_tp": 4574.611,
+    "state": "ARCHIVED",
+    "be_activated": false,
+    "rr_achieved": -0.9327411167512777,
+    "last_sl": 4515.805,
+    "last_logged": 4517.13,
+    "partial_close_attempted": false,
+    "force_close_attempted": false
+  },
+  "2803422863": {
+    "ticket": 2803422863,
+    "direction": "bullish",
+    "entry": 4509.992,
+    "initial_sl": 4474.195,
+    "initial_tp": 4581.586,
+    "state": "ENTRY_ACTIVE",
+    "be_activated": false,
+    "rr_achieved": -0.08570550604799759,
+    "last_sl": 4474.195,
+    "last_logged": 4506.924,
+    "partial_close_attempted": false,
+    "force_close_attempted": false
+  }
+}

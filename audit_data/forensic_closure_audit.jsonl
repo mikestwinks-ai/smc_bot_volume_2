@@ -1,0 +1,619 @@
+{"timestamp": 1780298548.9259915, "timestamp_iso": "2026-06-01T10:22:28.925992", "stage": "PEAK_BALANCE_UPDATED", "ticket": null, "data": {"source": "restore_daily_state", "peak_balance": 624.43, "peak_equity": 624.43, "current_balance": 624.43, "corrected": true}}
+{"timestamp": 1780302973.7551239, "timestamp_iso": "2026-06-01T11:36:13.755126", "stage": "PEAK_BALANCE_UPDATED", "ticket": null, "data": {"source": "restore_daily_state", "peak_balance": 624.43, "peak_equity": 624.43, "current_balance": 624.43, "corrected": true}}
+{"timestamp": 1780303154.1426775, "timestamp_iso": "2026-06-01T11:39:14.142684", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303214.3477342, "timestamp_iso": "2026-06-01T11:40:14.347737", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303274.5529096, "timestamp_iso": "2026-06-01T11:41:14.552911", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303334.8687036, "timestamp_iso": "2026-06-01T11:42:14.868707", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303395.0657399, "timestamp_iso": "2026-06-01T11:43:15.065741", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303455.267555, "timestamp_iso": "2026-06-01T11:44:15.267558", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303515.6849391, "timestamp_iso": "2026-06-01T11:45:15.684941", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303575.892517, "timestamp_iso": "2026-06-01T11:46:15.892518", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303636.10028, "timestamp_iso": "2026-06-01T11:47:16.100281", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303696.3041058, "timestamp_iso": "2026-06-01T11:48:16.304107", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303756.5145247, "timestamp_iso": "2026-06-01T11:49:16.514528", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303816.69335, "timestamp_iso": "2026-06-01T11:50:16.693352", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303876.8897252, "timestamp_iso": "2026-06-01T11:51:16.889728", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303937.0952337, "timestamp_iso": "2026-06-01T11:52:17.095235", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780303997.2880933, "timestamp_iso": "2026-06-01T11:53:17.288098", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304057.4998271, "timestamp_iso": "2026-06-01T11:54:17.499830", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304117.7040622, "timestamp_iso": "2026-06-01T11:55:17.704065", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304177.8945365, "timestamp_iso": "2026-06-01T11:56:17.894540", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304238.0839946, "timestamp_iso": "2026-06-01T11:57:18.083997", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304298.2637851, "timestamp_iso": "2026-06-01T11:58:18.263787", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304358.4595578, "timestamp_iso": "2026-06-01T11:59:18.459563", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304418.6594186, "timestamp_iso": "2026-06-01T12:00:18.659420", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304478.8462276, "timestamp_iso": "2026-06-01T12:01:18.846229", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304539.0118036, "timestamp_iso": "2026-06-01T12:02:19.011805", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304599.230944, "timestamp_iso": "2026-06-01T12:03:19.230945", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304659.4328182, "timestamp_iso": "2026-06-01T12:04:19.432823", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304719.630701, "timestamp_iso": "2026-06-01T12:05:19.630702", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304779.8362348, "timestamp_iso": "2026-06-01T12:06:19.836237", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304840.246933, "timestamp_iso": "2026-06-01T12:07:20.246936", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304900.7453604, "timestamp_iso": "2026-06-01T12:08:20.745365", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780304960.9377613, "timestamp_iso": "2026-06-01T12:09:20.937762", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305021.1233716, "timestamp_iso": "2026-06-01T12:10:21.123373", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305081.32087, "timestamp_iso": "2026-06-01T12:11:21.320871", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305141.4935753, "timestamp_iso": "2026-06-01T12:12:21.493579", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305202.9360359, "timestamp_iso": "2026-06-01T12:13:22.936038", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305263.1103103, "timestamp_iso": "2026-06-01T12:14:23.110312", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305323.3043878, "timestamp_iso": "2026-06-01T12:15:23.304392", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305383.5187209, "timestamp_iso": "2026-06-01T12:16:23.518722", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305443.693559, "timestamp_iso": "2026-06-01T12:17:23.693560", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305503.8713832, "timestamp_iso": "2026-06-01T12:18:23.871384", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305564.0361116, "timestamp_iso": "2026-06-01T12:19:24.036115", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305624.2330017, "timestamp_iso": "2026-06-01T12:20:24.233006", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305684.4310644, "timestamp_iso": "2026-06-01T12:21:24.431074", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305744.647715, "timestamp_iso": "2026-06-01T12:22:24.647716", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305804.811779, "timestamp_iso": "2026-06-01T12:23:24.811783", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305864.981546, "timestamp_iso": "2026-06-01T12:24:24.981547", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305925.2196152, "timestamp_iso": "2026-06-01T12:25:25.219617", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780305985.397148, "timestamp_iso": "2026-06-01T12:26:25.397151", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306045.5808992, "timestamp_iso": "2026-06-01T12:27:25.580902", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306105.7972322, "timestamp_iso": "2026-06-01T12:28:25.797233", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306165.9656007, "timestamp_iso": "2026-06-01T12:29:25.965602", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306226.1629734, "timestamp_iso": "2026-06-01T12:30:26.162975", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306286.3546, "timestamp_iso": "2026-06-01T12:31:26.354601", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306346.5699399, "timestamp_iso": "2026-06-01T12:32:26.569941", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306406.7676234, "timestamp_iso": "2026-06-01T12:33:26.767625", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306466.942976, "timestamp_iso": "2026-06-01T12:34:26.942981", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780306527.1448247, "timestamp_iso": "2026-06-01T12:35:27.144827", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780316296.0954216, "timestamp_iso": "2026-06-01T15:18:16.095423", "stage": "PEAK_BALANCE_UPDATED", "ticket": null, "data": {"source": "restore_daily_state", "peak_balance": 638.6, "peak_equity": 638.6, "current_balance": 638.6, "corrected": false}}
+{"timestamp": 1780317019.724753, "timestamp_iso": "2026-06-01T15:30:19.724755", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317079.9421506, "timestamp_iso": "2026-06-01T15:31:19.942152", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317140.133943, "timestamp_iso": "2026-06-01T15:32:20.133948", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317200.3379955, "timestamp_iso": "2026-06-01T15:33:20.337998", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317260.5805624, "timestamp_iso": "2026-06-01T15:34:20.580564", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317320.9044056, "timestamp_iso": "2026-06-01T15:35:20.904407", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317381.1820621, "timestamp_iso": "2026-06-01T15:36:21.182063", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317441.39133, "timestamp_iso": "2026-06-01T15:37:21.391333", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317501.707682, "timestamp_iso": "2026-06-01T15:38:21.707684", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317562.0026805, "timestamp_iso": "2026-06-01T15:39:22.002681", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317622.2866237, "timestamp_iso": "2026-06-01T15:40:22.286627", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317682.7736878, "timestamp_iso": "2026-06-01T15:41:22.773691", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317743.4813106, "timestamp_iso": "2026-06-01T15:42:23.481311", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317803.7175066, "timestamp_iso": "2026-06-01T15:43:23.717508", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317863.9623227, "timestamp_iso": "2026-06-01T15:44:23.962325", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317924.3376818, "timestamp_iso": "2026-06-01T15:45:24.337683", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780317984.691083, "timestamp_iso": "2026-06-01T15:46:24.691086", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780318044.8609788, "timestamp_iso": "2026-06-01T15:47:24.860981", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780318105.1045392, "timestamp_iso": "2026-06-01T15:48:25.104540", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780324467.944301, "timestamp_iso": "2026-06-01T17:34:27.944303", "stage": "FORENSIC_LOOKUP_START", "ticket": 2798981486, "data": {"ticket": 2798981486, "symbol": "XAUUSDm", "state": "ACTIVE"}}
+{"timestamp": 1780324467.9457037, "timestamp_iso": "2026-06-01T17:34:27.945705", "stage": "DEAL_FOUND", "ticket": 2798981486, "data": {"ticket": 2798981486, "deal_ticket": 2270512955, "close_price": 4496.015, "realized_pnl": -10.68, "close_reason": "", "close_time": 1780319024}}
+{"timestamp": 1780324467.9461024, "timestamp_iso": "2026-06-01T17:34:27.946103", "stage": "DEAL_PARSED", "ticket": 2798981486, "data": {"ticket": 2798981486, "deal_ticket": 2270512955, "entry_price": 4506.7, "closure_price": 4496.015, "realized_pnl": -10.68, "realized_rr": -0.999532054281751, "swap": 0.0, "commission": 0.0}}
+{"timestamp": 1780324467.9467635, "timestamp_iso": "2026-06-01T17:34:27.946764", "stage": "CLOSURE_VERIFICATION_START", "ticket": 2798981486, "data": {"ticket": 2798981486, "state": "ACTIVE", "entry_price": 4506.7, "closure_price": 4496.015}}
+{"timestamp": 1780324467.9470413, "timestamp_iso": "2026-06-01T17:34:27.947043", "stage": "TRADE_CLOSED_EVENT", "ticket": 2798981486, "data": {"ticket": 2798981486, "direction": "bullish", "entry_price": 4506.7, "closure_price": 4496.015, "realized_pnl": -10.68, "realized_rr": -0.999532054281751, "reason": "SL", "status": "emitted"}}
+{"timestamp": 1780324467.9478707, "timestamp_iso": "2026-06-01T17:34:27.947872", "stage": "ACCOUNTING_START", "ticket": 2798981486, "data": {"ticket": 2798981486, "pnl": -10.68}}
+{"timestamp": 1780324467.9482281, "timestamp_iso": "2026-06-01T17:34:27.948229", "stage": "TRADE_RESULT_RECORDED", "ticket": null, "data": {"pnl": -10.68, "daily_pnl": -10.68, "closed_trades_today": 1, "consecutive_losses": 0}}
+{"timestamp": 1780324467.951215, "timestamp_iso": "2026-06-01T17:34:27.951218", "stage": "PEAK_BALANCE_UPDATED", "ticket": null, "data": {"current_balance": 607.07, "peak_balance": 607.07, "daily_pnl": -10.68, "reason": "post_trade_result"}}
+{"timestamp": 1780324467.9521618, "timestamp_iso": "2026-06-01T17:34:27.952163", "stage": "DAILY_PNL_UPDATED", "ticket": 2798981486, "data": {"ticket": 2798981486, "pnl": -10.68, "status": "recorded"}}
+{"timestamp": 1780324467.9530623, "timestamp_iso": "2026-06-01T17:34:27.953064", "stage": "COOLDOWN_START", "ticket": 2798981486, "data": {"ticket": 2798981486, "reason": "SL"}}
+{"timestamp": 1780324467.9600823, "timestamp_iso": "2026-06-01T17:34:27.960084", "stage": "COOLDOWN_REGISTERED", "ticket": 2798981486, "data": {"ticket": 2798981486, "direction": "bullish", "reason": "SL", "status": "registered"}}
+{"timestamp": 1780324467.960832, "timestamp_iso": "2026-06-01T17:34:27.960835", "stage": "STATE_TRANSITION_START", "ticket": 2798981486, "data": {"ticket": 2798981486, "from_state": "ACTIVE", "to_state": "CLOSED_RECORDED"}}
+{"timestamp": 1780324467.96125, "timestamp_iso": "2026-06-01T17:34:27.961251", "stage": "STATE_RECORDED_TO_ARCHIVED", "ticket": 2798981486, "data": {"ticket": 2798981486, "new_state": "CLOSED_RECORDED", "deal_ticket": 2270512955, "closure_reason": "SL"}}
+{"timestamp": 1780324467.9619234, "timestamp_iso": "2026-06-01T17:34:27.961925", "stage": "CLOSURE_COMPLETE", "ticket": 2798981486, "data": {"ticket": 2798981486, "state": "CLOSED_RECORDED", "pnl": -10.68, "rr": -0.999532054281751}}
+{"timestamp": 1780324580.9132683, "timestamp_iso": "2026-06-01T17:36:20.913269", "stage": "PEAK_BALANCE_UPDATED", "ticket": null, "data": {"source": "restore_daily_state", "peak_balance": 607.07, "peak_equity": 607.07, "current_balance": 607.07, "corrected": false}}
+{"timestamp": 1780387433.9576876, "timestamp_iso": "2026-06-02T11:03:53.957688", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387494.2069113, "timestamp_iso": "2026-06-02T11:04:54.206915", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387554.3871205, "timestamp_iso": "2026-06-02T11:05:54.387123", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387614.5876017, "timestamp_iso": "2026-06-02T11:06:54.587605", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387674.8051662, "timestamp_iso": "2026-06-02T11:07:54.805169", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387734.9715772, "timestamp_iso": "2026-06-02T11:08:54.971578", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387795.132294, "timestamp_iso": "2026-06-02T11:09:55.132295", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387855.3221426, "timestamp_iso": "2026-06-02T11:10:55.322144", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387915.504647, "timestamp_iso": "2026-06-02T11:11:55.504649", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780387975.7544978, "timestamp_iso": "2026-06-02T11:12:55.754499", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388035.9475188, "timestamp_iso": "2026-06-02T11:13:55.947521", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388096.1474216, "timestamp_iso": "2026-06-02T11:14:56.147428", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388156.3380475, "timestamp_iso": "2026-06-02T11:15:56.338048", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388216.5617123, "timestamp_iso": "2026-06-02T11:16:56.561713", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388276.7412841, "timestamp_iso": "2026-06-02T11:17:56.741286", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388336.9496715, "timestamp_iso": "2026-06-02T11:18:56.949676", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388397.1068664, "timestamp_iso": "2026-06-02T11:19:57.106869", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388457.290943, "timestamp_iso": "2026-06-02T11:20:57.290945", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388517.4912052, "timestamp_iso": "2026-06-02T11:21:57.491206", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388577.7080815, "timestamp_iso": "2026-06-02T11:22:57.708083", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388637.8837366, "timestamp_iso": "2026-06-02T11:23:57.883739", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388698.1130502, "timestamp_iso": "2026-06-02T11:24:58.113051", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388758.3083055, "timestamp_iso": "2026-06-02T11:25:58.308306", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388818.5137029, "timestamp_iso": "2026-06-02T11:26:58.513704", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388878.7005472, "timestamp_iso": "2026-06-02T11:27:58.700551", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388938.8924208, "timestamp_iso": "2026-06-02T11:28:58.892421", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780388999.053727, "timestamp_iso": "2026-06-02T11:29:59.053729", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389059.2793918, "timestamp_iso": "2026-06-02T11:30:59.279393", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389119.5436378, "timestamp_iso": "2026-06-02T11:31:59.543639", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389179.69938, "timestamp_iso": "2026-06-02T11:32:59.699381", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389239.9057343, "timestamp_iso": "2026-06-02T11:33:59.905736", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389300.131169, "timestamp_iso": "2026-06-02T11:35:00.131170", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389360.434065, "timestamp_iso": "2026-06-02T11:36:00.434066", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389420.9097414, "timestamp_iso": "2026-06-02T11:37:00.909743", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389481.4563532, "timestamp_iso": "2026-06-02T11:38:01.456354", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389541.651086, "timestamp_iso": "2026-06-02T11:39:01.651089", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389601.8450334, "timestamp_iso": "2026-06-02T11:40:01.845035", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389663.2950504, "timestamp_iso": "2026-06-02T11:41:03.295052", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389723.6004918, "timestamp_iso": "2026-06-02T11:42:03.600493", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389783.84687, "timestamp_iso": "2026-06-02T11:43:03.846870", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389844.0726354, "timestamp_iso": "2026-06-02T11:44:04.072636", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389904.2559698, "timestamp_iso": "2026-06-02T11:45:04.255970", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780389964.4991715, "timestamp_iso": "2026-06-02T11:46:04.499172", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390024.7419672, "timestamp_iso": "2026-06-02T11:47:04.741968", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390085.0330782, "timestamp_iso": "2026-06-02T11:48:05.033082", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390145.221401, "timestamp_iso": "2026-06-02T11:49:05.221402", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390205.389635, "timestamp_iso": "2026-06-02T11:50:05.389636", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390265.5968773, "timestamp_iso": "2026-06-02T11:51:05.596879", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390325.8210802, "timestamp_iso": "2026-06-02T11:52:05.821081", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390386.0674312, "timestamp_iso": "2026-06-02T11:53:06.067432", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390446.2540035, "timestamp_iso": "2026-06-02T11:54:06.254004", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390506.5040362, "timestamp_iso": "2026-06-02T11:55:06.504037", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390566.6793938, "timestamp_iso": "2026-06-02T11:56:06.679395", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390626.8802478, "timestamp_iso": "2026-06-02T11:57:06.880256", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390687.0772471, "timestamp_iso": "2026-06-02T11:58:07.077250", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390747.313726, "timestamp_iso": "2026-06-02T11:59:07.313726", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390807.4763896, "timestamp_iso": "2026-06-02T12:00:07.476391", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390867.7076058, "timestamp_iso": "2026-06-02T12:01:07.707607", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390927.8972092, "timestamp_iso": "2026-06-02T12:02:07.897210", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780390988.1352155, "timestamp_iso": "2026-06-02T12:03:08.135216", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391048.3192325, "timestamp_iso": "2026-06-02T12:04:08.319234", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391108.4908266, "timestamp_iso": "2026-06-02T12:05:08.490828", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391168.6517265, "timestamp_iso": "2026-06-02T12:06:08.651731", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391228.8341625, "timestamp_iso": "2026-06-02T12:07:08.834164", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391289.1721737, "timestamp_iso": "2026-06-02T12:08:09.172176", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391349.6774633, "timestamp_iso": "2026-06-02T12:09:09.677465", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391409.8410337, "timestamp_iso": "2026-06-02T12:10:09.841034", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391470.0561745, "timestamp_iso": "2026-06-02T12:11:10.056175", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391530.2462466, "timestamp_iso": "2026-06-02T12:12:10.246248", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391590.4687505, "timestamp_iso": "2026-06-02T12:13:10.468751", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391650.808977, "timestamp_iso": "2026-06-02T12:14:10.808979", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391710.9794712, "timestamp_iso": "2026-06-02T12:15:10.979472", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391771.6738653, "timestamp_iso": "2026-06-02T12:16:11.673867", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391831.9375575, "timestamp_iso": "2026-06-02T12:17:11.937558", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391892.1887994, "timestamp_iso": "2026-06-02T12:18:12.188804", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780391952.4268866, "timestamp_iso": "2026-06-02T12:19:12.426887", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392012.6328743, "timestamp_iso": "2026-06-02T12:20:12.632876", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392072.9981482, "timestamp_iso": "2026-06-02T12:21:12.998149", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392133.1888812, "timestamp_iso": "2026-06-02T12:22:13.188882", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392193.3697655, "timestamp_iso": "2026-06-02T12:23:13.369767", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392253.6059203, "timestamp_iso": "2026-06-02T12:24:13.605921", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392313.8116786, "timestamp_iso": "2026-06-02T12:25:13.811680", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392373.9881246, "timestamp_iso": "2026-06-02T12:26:13.988126", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392434.1712832, "timestamp_iso": "2026-06-02T12:27:14.171284", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392494.6639743, "timestamp_iso": "2026-06-02T12:28:14.663975", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392554.8240612, "timestamp_iso": "2026-06-02T12:29:14.824065", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392615.049095, "timestamp_iso": "2026-06-02T12:30:15.049096", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392675.310556, "timestamp_iso": "2026-06-02T12:31:15.310556", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392735.5218372, "timestamp_iso": "2026-06-02T12:32:15.521839", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392795.704778, "timestamp_iso": "2026-06-02T12:33:15.704779", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392855.8908215, "timestamp_iso": "2026-06-02T12:34:15.890823", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392916.0986824, "timestamp_iso": "2026-06-02T12:35:16.098683", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780392976.2733426, "timestamp_iso": "2026-06-02T12:36:16.273344", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393036.4625313, "timestamp_iso": "2026-06-02T12:37:16.462533", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393096.719953, "timestamp_iso": "2026-06-02T12:38:16.719954", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393156.9124708, "timestamp_iso": "2026-06-02T12:39:16.912472", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393217.1063404, "timestamp_iso": "2026-06-02T12:40:17.106341", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393277.2999153, "timestamp_iso": "2026-06-02T12:41:17.299916", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393337.550285, "timestamp_iso": "2026-06-02T12:42:17.550286", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393397.7263296, "timestamp_iso": "2026-06-02T12:43:17.726330", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393457.9997544, "timestamp_iso": "2026-06-02T12:44:17.999756", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393518.195843, "timestamp_iso": "2026-06-02T12:45:18.195845", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393578.3997793, "timestamp_iso": "2026-06-02T12:46:18.399781", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393638.603576, "timestamp_iso": "2026-06-02T12:47:18.603578", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393698.829135, "timestamp_iso": "2026-06-02T12:48:18.829136", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393759.012283, "timestamp_iso": "2026-06-02T12:49:19.012284", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393819.1885622, "timestamp_iso": "2026-06-02T12:50:19.188563", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393879.4348903, "timestamp_iso": "2026-06-02T12:51:19.434891", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393939.6420789, "timestamp_iso": "2026-06-02T12:52:19.642081", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780393999.8404188, "timestamp_iso": "2026-06-02T12:53:19.840420", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394060.0334668, "timestamp_iso": "2026-06-02T12:54:20.033469", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394120.280238, "timestamp_iso": "2026-06-02T12:55:20.280242", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394180.5610752, "timestamp_iso": "2026-06-02T12:56:20.561077", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394240.7457952, "timestamp_iso": "2026-06-02T12:57:20.745797", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394300.9178786, "timestamp_iso": "2026-06-02T12:58:20.917880", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394361.138266, "timestamp_iso": "2026-06-02T12:59:21.138270", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394421.3471196, "timestamp_iso": "2026-06-02T13:00:21.347120", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394481.7183938, "timestamp_iso": "2026-06-02T13:01:21.718394", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394541.942662, "timestamp_iso": "2026-06-02T13:02:21.942665", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394602.141404, "timestamp_iso": "2026-06-02T13:03:22.141407", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394662.4550998, "timestamp_iso": "2026-06-02T13:04:22.455104", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394722.6304128, "timestamp_iso": "2026-06-02T13:05:22.630414", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394782.7935176, "timestamp_iso": "2026-06-02T13:06:22.793523", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394842.9918196, "timestamp_iso": "2026-06-02T13:07:22.991820", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394903.21657, "timestamp_iso": "2026-06-02T13:08:23.216573", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780394963.4103053, "timestamp_iso": "2026-06-02T13:09:23.410306", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395023.6528006, "timestamp_iso": "2026-06-02T13:10:23.652803", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395083.8904393, "timestamp_iso": "2026-06-02T13:11:23.890440", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395144.0661774, "timestamp_iso": "2026-06-02T13:12:24.066179", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395204.2787914, "timestamp_iso": "2026-06-02T13:13:24.278793", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395265.757697, "timestamp_iso": "2026-06-02T13:14:25.757698", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395325.9440415, "timestamp_iso": "2026-06-02T13:15:25.944044", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395386.1393998, "timestamp_iso": "2026-06-02T13:16:26.139400", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395446.301325, "timestamp_iso": "2026-06-02T13:17:26.301326", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395506.468888, "timestamp_iso": "2026-06-02T13:18:26.468889", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395566.8108, "timestamp_iso": "2026-06-02T13:19:26.810806", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395626.9960885, "timestamp_iso": "2026-06-02T13:20:26.996090", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395687.2817879, "timestamp_iso": "2026-06-02T13:21:27.281788", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395747.4525723, "timestamp_iso": "2026-06-02T13:22:27.452573", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395807.6156974, "timestamp_iso": "2026-06-02T13:23:27.615703", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395867.8287053, "timestamp_iso": "2026-06-02T13:24:27.828711", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395928.0982132, "timestamp_iso": "2026-06-02T13:25:28.098216", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780395988.3492131, "timestamp_iso": "2026-06-02T13:26:28.349216", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396048.5506783, "timestamp_iso": "2026-06-02T13:27:28.550684", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396108.8136148, "timestamp_iso": "2026-06-02T13:28:28.813616", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396168.9743931, "timestamp_iso": "2026-06-02T13:29:28.974398", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396229.2235284, "timestamp_iso": "2026-06-02T13:30:29.223530", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396289.4261384, "timestamp_iso": "2026-06-02T13:31:29.426142", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396349.6421387, "timestamp_iso": "2026-06-02T13:32:29.642142", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396409.8316174, "timestamp_iso": "2026-06-02T13:33:29.831621", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396470.0752947, "timestamp_iso": "2026-06-02T13:34:30.075296", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396531.5305438, "timestamp_iso": "2026-06-02T13:35:31.530544", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396591.7887883, "timestamp_iso": "2026-06-02T13:36:31.788792", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396651.9631262, "timestamp_iso": "2026-06-02T13:37:31.963127", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396712.1310122, "timestamp_iso": "2026-06-02T13:38:32.131016", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396772.5315561, "timestamp_iso": "2026-06-02T13:39:32.531556", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396832.7723901, "timestamp_iso": "2026-06-02T13:40:32.772393", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396893.0110712, "timestamp_iso": "2026-06-02T13:41:33.011072", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780396953.154343, "timestamp_iso": "2026-06-02T13:42:33.154346", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397013.3859124, "timestamp_iso": "2026-06-02T13:43:33.385916", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397073.5906658, "timestamp_iso": "2026-06-02T13:44:33.590669", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397133.7692177, "timestamp_iso": "2026-06-02T13:45:33.769221", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397193.9582703, "timestamp_iso": "2026-06-02T13:46:33.958275", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397254.1488361, "timestamp_iso": "2026-06-02T13:47:34.148837", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397314.3120558, "timestamp_iso": "2026-06-02T13:48:34.312057", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397374.5183787, "timestamp_iso": "2026-06-02T13:49:34.518382", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397434.7033184, "timestamp_iso": "2026-06-02T13:50:34.703319", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397494.8626204, "timestamp_iso": "2026-06-02T13:51:34.862625", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397555.078073, "timestamp_iso": "2026-06-02T13:52:35.078078", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397615.2637322, "timestamp_iso": "2026-06-02T13:53:35.263735", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397675.4367127, "timestamp_iso": "2026-06-02T13:54:35.436715", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397735.6312406, "timestamp_iso": "2026-06-02T13:55:35.631241", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397795.783553, "timestamp_iso": "2026-06-02T13:56:35.783555", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397855.9986744, "timestamp_iso": "2026-06-02T13:57:35.998678", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397916.1950753, "timestamp_iso": "2026-06-02T13:58:36.195076", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780397976.3501163, "timestamp_iso": "2026-06-02T13:59:36.350122", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398036.5513105, "timestamp_iso": "2026-06-02T14:00:36.551313", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398096.9440582, "timestamp_iso": "2026-06-02T14:01:36.944062", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398157.180282, "timestamp_iso": "2026-06-02T14:02:37.180283", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398217.3471153, "timestamp_iso": "2026-06-02T14:03:37.347120", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398277.5250852, "timestamp_iso": "2026-06-02T14:04:37.525086", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398337.6870837, "timestamp_iso": "2026-06-02T14:05:37.687086", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398397.8620791, "timestamp_iso": "2026-06-02T14:06:37.862080", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398458.0516508, "timestamp_iso": "2026-06-02T14:07:38.051651", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398518.265236, "timestamp_iso": "2026-06-02T14:08:38.265241", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398578.4924097, "timestamp_iso": "2026-06-02T14:09:38.492412", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398638.7021058, "timestamp_iso": "2026-06-02T14:10:38.702107", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398687.2093012, "timestamp_iso": "2026-06-02T14:11:27.209302", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398698.936238, "timestamp_iso": "2026-06-02T14:11:38.936239", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398759.092275, "timestamp_iso": "2026-06-02T14:12:39.092278", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398819.3566818, "timestamp_iso": "2026-06-02T14:13:39.356683", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398879.5413783, "timestamp_iso": "2026-06-02T14:14:39.541379", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398939.7736437, "timestamp_iso": "2026-06-02T14:15:39.773645", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780398999.9237905, "timestamp_iso": "2026-06-02T14:16:39.923791", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399060.1200192, "timestamp_iso": "2026-06-02T14:17:40.120020", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399120.3550308, "timestamp_iso": "2026-06-02T14:18:40.355033", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399180.5537887, "timestamp_iso": "2026-06-02T14:19:40.553791", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399240.7846603, "timestamp_iso": "2026-06-02T14:20:40.784661", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399300.9966242, "timestamp_iso": "2026-06-02T14:21:40.996629", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399361.223641, "timestamp_iso": "2026-06-02T14:22:41.223641", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399421.9888394, "timestamp_iso": "2026-06-02T14:23:41.988841", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399482.1838439, "timestamp_iso": "2026-06-02T14:24:42.183848", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399542.4431133, "timestamp_iso": "2026-06-02T14:25:42.443114", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399602.6860273, "timestamp_iso": "2026-06-02T14:26:42.686029", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399662.87829, "timestamp_iso": "2026-06-02T14:27:42.878291", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399723.1040618, "timestamp_iso": "2026-06-02T14:28:43.104063", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399783.4418254, "timestamp_iso": "2026-06-02T14:29:43.441826", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399843.8213425, "timestamp_iso": "2026-06-02T14:30:43.821343", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399904.0240765, "timestamp_iso": "2026-06-02T14:31:44.024077", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780399964.2959275, "timestamp_iso": "2026-06-02T14:32:44.295928", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400024.5138373, "timestamp_iso": "2026-06-02T14:33:44.513839", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400084.7507844, "timestamp_iso": "2026-06-02T14:34:44.750785", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400145.0347984, "timestamp_iso": "2026-06-02T14:35:45.034800", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400205.242657, "timestamp_iso": "2026-06-02T14:36:45.242658", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400265.4497566, "timestamp_iso": "2026-06-02T14:37:45.449757", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400325.7069576, "timestamp_iso": "2026-06-02T14:38:45.706959", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400386.2506332, "timestamp_iso": "2026-06-02T14:39:46.250634", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400446.433618, "timestamp_iso": "2026-06-02T14:40:46.433619", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400506.654257, "timestamp_iso": "2026-06-02T14:41:46.654259", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400566.85075, "timestamp_iso": "2026-06-02T14:42:46.850750", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400627.0433874, "timestamp_iso": "2026-06-02T14:43:47.043392", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400687.2554793, "timestamp_iso": "2026-06-02T14:44:47.255480", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400747.4614744, "timestamp_iso": "2026-06-02T14:45:47.461479", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400807.6807644, "timestamp_iso": "2026-06-02T14:46:47.680766", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400867.8754542, "timestamp_iso": "2026-06-02T14:47:47.875456", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400928.110372, "timestamp_iso": "2026-06-02T14:48:48.110373", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780400988.4764864, "timestamp_iso": "2026-06-02T14:49:48.476492", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401048.677477, "timestamp_iso": "2026-06-02T14:50:48.677480", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401108.8945677, "timestamp_iso": "2026-06-02T14:51:48.894570", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401169.1000562, "timestamp_iso": "2026-06-02T14:52:49.100057", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401229.380397, "timestamp_iso": "2026-06-02T14:53:49.380398", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401289.6144888, "timestamp_iso": "2026-06-02T14:54:49.614489", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401349.809703, "timestamp_iso": "2026-06-02T14:55:49.809704", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401409.9996836, "timestamp_iso": "2026-06-02T14:56:49.999685", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401470.179727, "timestamp_iso": "2026-06-02T14:57:50.179728", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401530.4166138, "timestamp_iso": "2026-06-02T14:58:50.416614", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401590.5907443, "timestamp_iso": "2026-06-02T14:59:50.590745", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401650.7819319, "timestamp_iso": "2026-06-02T15:00:50.781932", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401710.9413984, "timestamp_iso": "2026-06-02T15:01:50.941399", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401771.2201967, "timestamp_iso": "2026-06-02T15:02:51.220198", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401831.432246, "timestamp_iso": "2026-06-02T15:03:51.432247", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401891.6346643, "timestamp_iso": "2026-06-02T15:04:51.634670", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780401951.841623, "timestamp_iso": "2026-06-02T15:05:51.841625", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402012.1087186, "timestamp_iso": "2026-06-02T15:06:52.108720", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402072.316605, "timestamp_iso": "2026-06-02T15:07:52.316606", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402132.4952295, "timestamp_iso": "2026-06-02T15:08:52.495233", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402192.9242892, "timestamp_iso": "2026-06-02T15:09:52.924290", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402253.0939453, "timestamp_iso": "2026-06-02T15:10:53.093946", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402313.3098607, "timestamp_iso": "2026-06-02T15:11:53.309862", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402373.487966, "timestamp_iso": "2026-06-02T15:12:53.487967", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402433.6935966, "timestamp_iso": "2026-06-02T15:13:53.693600", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402494.0985088, "timestamp_iso": "2026-06-02T15:14:54.098510", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402554.3246238, "timestamp_iso": "2026-06-02T15:15:54.324625", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402614.510777, "timestamp_iso": "2026-06-02T15:16:54.510778", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402674.7365587, "timestamp_iso": "2026-06-02T15:17:54.736559", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402734.921681, "timestamp_iso": "2026-06-02T15:18:54.921682", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402795.1199312, "timestamp_iso": "2026-06-02T15:19:55.119931", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402855.2849083, "timestamp_iso": "2026-06-02T15:20:55.284909", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402915.498026, "timestamp_iso": "2026-06-02T15:21:55.498027", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780402975.67219, "timestamp_iso": "2026-06-02T15:22:55.672191", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403035.8712907, "timestamp_iso": "2026-06-02T15:23:55.871291", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403096.0617344, "timestamp_iso": "2026-06-02T15:24:56.061736", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403156.2678437, "timestamp_iso": "2026-06-02T15:25:56.267845", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403216.436312, "timestamp_iso": "2026-06-02T15:26:56.436313", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403276.7037911, "timestamp_iso": "2026-06-02T15:27:56.703792", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403336.889445, "timestamp_iso": "2026-06-02T15:28:56.889446", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403397.1647575, "timestamp_iso": "2026-06-02T15:29:57.164758", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403457.3635473, "timestamp_iso": "2026-06-02T15:30:57.363549", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403517.6158514, "timestamp_iso": "2026-06-02T15:31:57.615852", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403577.8234117, "timestamp_iso": "2026-06-02T15:32:57.823412", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403638.0176742, "timestamp_iso": "2026-06-02T15:33:58.017675", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403698.2048192, "timestamp_iso": "2026-06-02T15:34:58.204820", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403758.3785992, "timestamp_iso": "2026-06-02T15:35:58.378602", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403818.5747316, "timestamp_iso": "2026-06-02T15:36:58.574733", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403878.783764, "timestamp_iso": "2026-06-02T15:37:58.783765", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403938.9683206, "timestamp_iso": "2026-06-02T15:38:58.968321", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780403999.1701982, "timestamp_iso": "2026-06-02T15:39:59.170200", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404059.3843684, "timestamp_iso": "2026-06-02T15:40:59.384369", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404119.5872571, "timestamp_iso": "2026-06-02T15:41:59.587258", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404179.8017578, "timestamp_iso": "2026-06-02T15:42:59.801758", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404239.9980457, "timestamp_iso": "2026-06-02T15:43:59.998052", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404300.204073, "timestamp_iso": "2026-06-02T15:45:00.204074", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404360.3820472, "timestamp_iso": "2026-06-02T15:46:00.382050", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404420.5808387, "timestamp_iso": "2026-06-02T15:47:00.580840", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404480.91747, "timestamp_iso": "2026-06-02T15:48:00.917473", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404541.1174061, "timestamp_iso": "2026-06-02T15:49:01.117407", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404601.4062696, "timestamp_iso": "2026-06-02T15:50:01.406270", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404661.6033726, "timestamp_iso": "2026-06-02T15:51:01.603373", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404721.795472, "timestamp_iso": "2026-06-02T15:52:01.795473", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404781.9694846, "timestamp_iso": "2026-06-02T15:53:01.969485", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404842.210052, "timestamp_iso": "2026-06-02T15:54:02.210053", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404902.4037626, "timestamp_iso": "2026-06-02T15:55:02.403763", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780404902.404342, "timestamp_iso": "2026-06-02T15:55:02.404343", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780404902.4215965, "timestamp_iso": "2026-06-02T15:55:02.421600", "stage": "FORENSIC_LOOKUP_START", "ticket": 2802137567, "data": {"ticket": 2802137567, "symbol": "XAUUSDm", "state": "ACTIVE"}}
+{"timestamp": 1780404902.4697165, "timestamp_iso": "2026-06-02T15:55:02.469719", "stage": "DEAL_FOUND", "ticket": 2802137567, "data": {"ticket": 2802137567, "deal_ticket": 2274272473, "close_price": 4515.805, "realized_pnl": -19.7, "close_reason": "", "close_time": 1780404856}}
+{"timestamp": 1780404902.4701815, "timestamp_iso": "2026-06-02T15:55:02.470183", "stage": "DEAL_PARSED", "ticket": 2802137567, "data": {"ticket": 2802137567, "deal_ticket": 2274272473, "entry_price": 4535.505, "closure_price": 4515.805, "realized_pnl": -19.7, "realized_rr": -1.000000000000009, "swap": 0.0, "commission": 0.0}}
+{"timestamp": 1780404902.47336, "timestamp_iso": "2026-06-02T15:55:02.473363", "stage": "CLOSURE_VERIFICATION_START", "ticket": 2802137567, "data": {"ticket": 2802137567, "state": "ACTIVE", "entry_price": 4535.505, "closure_price": 4515.805}}
+{"timestamp": 1780404902.4739852, "timestamp_iso": "2026-06-02T15:55:02.473987", "stage": "TRADE_CLOSED_EVENT", "ticket": 2802137567, "data": {"ticket": 2802137567, "direction": "bullish", "entry_price": 4535.505, "closure_price": 4515.805, "realized_pnl": -19.7, "realized_rr": -1.000000000000009, "reason": "SL", "status": "emitted"}}
+{"timestamp": 1780404902.487126, "timestamp_iso": "2026-06-02T15:55:02.487128", "stage": "ACCOUNTING_START", "ticket": 2802137567, "data": {"ticket": 2802137567, "pnl": -19.7}}
+{"timestamp": 1780404902.49047, "timestamp_iso": "2026-06-02T15:55:02.490472", "stage": "TRADE_RESULT_RECORDED", "ticket": null, "data": {"pnl": -19.7, "daily_pnl": -19.7, "closed_trades_today": 1, "consecutive_losses": 0}}
+{"timestamp": 1780404902.493252, "timestamp_iso": "2026-06-02T15:55:02.493256", "stage": "PEAK_BALANCE_UPDATED", "ticket": null, "data": {"current_balance": 587.37, "peak_balance": 607.07, "daily_pnl": -19.7, "reason": "post_trade_result"}}
+{"timestamp": 1780404902.49565, "timestamp_iso": "2026-06-02T15:55:02.495652", "stage": "DAILY_PNL_UPDATED", "ticket": 2802137567, "data": {"ticket": 2802137567, "pnl": -19.7, "status": "recorded"}}
+{"timestamp": 1780404902.4965782, "timestamp_iso": "2026-06-02T15:55:02.496581", "stage": "COOLDOWN_START", "ticket": 2802137567, "data": {"ticket": 2802137567, "reason": "SL"}}
+{"timestamp": 1780404902.5034173, "timestamp_iso": "2026-06-02T15:55:02.503420", "stage": "COOLDOWN_REGISTERED", "ticket": 2802137567, "data": {"ticket": 2802137567, "direction": "bullish", "reason": "SL", "status": "registered"}}
+{"timestamp": 1780404902.5042205, "timestamp_iso": "2026-06-02T15:55:02.504222", "stage": "STATE_TRANSITION_START", "ticket": 2802137567, "data": {"ticket": 2802137567, "from_state": "ACTIVE", "to_state": "CLOSED_RECORDED"}}
+{"timestamp": 1780404902.5046775, "timestamp_iso": "2026-06-02T15:55:02.504679", "stage": "STATE_RECORDED_TO_ARCHIVED", "ticket": 2802137567, "data": {"ticket": 2802137567, "new_state": "CLOSED_RECORDED", "deal_ticket": 2274272473, "closure_reason": "SL"}}
+{"timestamp": 1780404902.5053682, "timestamp_iso": "2026-06-02T15:55:02.505370", "stage": "CLOSURE_COMPLETE", "ticket": 2802137567, "data": {"ticket": 2802137567, "state": "CLOSED_RECORDED", "pnl": -19.7, "rr": -1.000000000000009}}
+{"timestamp": 1780404902.5069838, "timestamp_iso": "2026-06-02T15:55:02.506986", "stage": "ARCHIVE_START", "ticket": 2802137567, "data": {"ticket": 2802137567, "state": "CLOSED_RECORDED"}}
+{"timestamp": 1780404902.5074637, "timestamp_iso": "2026-06-02T15:55:02.507466", "stage": "ARCHIVE_COMPLETE", "ticket": 2802137567, "data": {"ticket": 2802137567, "final_state": "ARCHIVED"}}
+{"timestamp": 1780405022.5193102, "timestamp_iso": "2026-06-02T15:57:02.519311", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405022.5198877, "timestamp_iso": "2026-06-02T15:57:02.519889", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405142.5282447, "timestamp_iso": "2026-06-02T15:59:02.528246", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405142.5289176, "timestamp_iso": "2026-06-02T15:59:02.528920", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405262.5388346, "timestamp_iso": "2026-06-02T16:01:02.538836", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405262.539551, "timestamp_iso": "2026-06-02T16:01:02.539554", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405382.5470011, "timestamp_iso": "2026-06-02T16:03:02.547004", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405382.5476575, "timestamp_iso": "2026-06-02T16:03:02.547660", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405502.5556726, "timestamp_iso": "2026-06-02T16:05:02.555674", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405502.5600922, "timestamp_iso": "2026-06-02T16:05:02.560096", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405622.5679512, "timestamp_iso": "2026-06-02T16:07:02.567953", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405622.5688627, "timestamp_iso": "2026-06-02T16:07:02.568866", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405742.5757308, "timestamp_iso": "2026-06-02T16:09:02.575732", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405742.57636, "timestamp_iso": "2026-06-02T16:09:02.576362", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405862.5893042, "timestamp_iso": "2026-06-02T16:11:02.589305", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405862.5899477, "timestamp_iso": "2026-06-02T16:11:02.589949", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780405982.597441, "timestamp_iso": "2026-06-02T16:13:02.597442", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780405982.5982895, "timestamp_iso": "2026-06-02T16:13:02.598293", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406102.6164885, "timestamp_iso": "2026-06-02T16:15:02.616494", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406102.6178062, "timestamp_iso": "2026-06-02T16:15:02.617809", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406222.6270673, "timestamp_iso": "2026-06-02T16:17:02.627069", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406222.627826, "timestamp_iso": "2026-06-02T16:17:02.627828", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406342.6396472, "timestamp_iso": "2026-06-02T16:19:02.639653", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406342.64049, "timestamp_iso": "2026-06-02T16:19:02.640492", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406462.6590233, "timestamp_iso": "2026-06-02T16:21:02.659027", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406462.6606324, "timestamp_iso": "2026-06-02T16:21:02.660639", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406582.6747947, "timestamp_iso": "2026-06-02T16:23:02.674796", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406582.6753724, "timestamp_iso": "2026-06-02T16:23:02.675374", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406702.6839876, "timestamp_iso": "2026-06-02T16:25:02.683989", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406702.6853783, "timestamp_iso": "2026-06-02T16:25:02.685380", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406822.6935265, "timestamp_iso": "2026-06-02T16:27:02.693527", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406822.6940923, "timestamp_iso": "2026-06-02T16:27:02.694095", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780406942.7019958, "timestamp_iso": "2026-06-02T16:29:02.701996", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780406942.7024965, "timestamp_iso": "2026-06-02T16:29:02.702498", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407062.7202518, "timestamp_iso": "2026-06-02T16:31:02.720256", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407062.7220347, "timestamp_iso": "2026-06-02T16:31:02.722040", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407182.7424114, "timestamp_iso": "2026-06-02T16:33:02.742414", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407182.7438252, "timestamp_iso": "2026-06-02T16:33:02.743830", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407302.7568114, "timestamp_iso": "2026-06-02T16:35:02.756812", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407302.757386, "timestamp_iso": "2026-06-02T16:35:02.757387", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407422.7654893, "timestamp_iso": "2026-06-02T16:37:02.765491", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407422.766861, "timestamp_iso": "2026-06-02T16:37:02.766864", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407542.7806916, "timestamp_iso": "2026-06-02T16:39:02.780695", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407542.8602495, "timestamp_iso": "2026-06-02T16:39:02.860256", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407662.8753033, "timestamp_iso": "2026-06-02T16:41:02.875304", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407662.8762372, "timestamp_iso": "2026-06-02T16:41:02.876239", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407782.8868036, "timestamp_iso": "2026-06-02T16:43:02.886805", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407782.8874078, "timestamp_iso": "2026-06-02T16:43:02.887409", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780407902.8967314, "timestamp_iso": "2026-06-02T16:45:02.896733", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780407902.8975563, "timestamp_iso": "2026-06-02T16:45:02.897559", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780408022.9102793, "timestamp_iso": "2026-06-02T16:47:02.910282", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780408022.9111876, "timestamp_iso": "2026-06-02T16:47:02.911191", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 0, "memory_states": 1}}
+{"timestamp": 1780408083.5309534, "timestamp_iso": "2026-06-02T16:48:03.530954", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 1}}
+{"timestamp": 1780408083.5314608, "timestamp_iso": "2026-06-02T16:48:03.531462", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 1}}
+{"timestamp": 1780408203.5459554, "timestamp_iso": "2026-06-02T16:50:03.545960", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408203.5475082, "timestamp_iso": "2026-06-02T16:50:03.547513", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408263.7304482, "timestamp_iso": "2026-06-02T16:51:03.730449", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408263.730973, "timestamp_iso": "2026-06-02T16:51:03.730975", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408323.9463744, "timestamp_iso": "2026-06-02T16:52:03.946382", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408323.9480908, "timestamp_iso": "2026-06-02T16:52:03.948096", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408384.1855288, "timestamp_iso": "2026-06-02T16:53:04.185529", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408384.186143, "timestamp_iso": "2026-06-02T16:53:04.186144", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408444.4095466, "timestamp_iso": "2026-06-02T16:54:04.409548", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408444.4101734, "timestamp_iso": "2026-06-02T16:54:04.410175", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408504.57232, "timestamp_iso": "2026-06-02T16:55:04.572321", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408504.5728781, "timestamp_iso": "2026-06-02T16:55:04.572879", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408564.7783878, "timestamp_iso": "2026-06-02T16:56:04.778388", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408564.7789543, "timestamp_iso": "2026-06-02T16:56:04.778956", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408624.9810567, "timestamp_iso": "2026-06-02T16:57:04.981058", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408624.9816458, "timestamp_iso": "2026-06-02T16:57:04.981648", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408685.1779866, "timestamp_iso": "2026-06-02T16:58:05.177989", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408685.1791034, "timestamp_iso": "2026-06-02T16:58:05.179106", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408745.346319, "timestamp_iso": "2026-06-02T16:59:05.346321", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408745.3474705, "timestamp_iso": "2026-06-02T16:59:05.347474", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408805.844055, "timestamp_iso": "2026-06-02T17:00:05.844056", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408805.8446326, "timestamp_iso": "2026-06-02T17:00:05.844634", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408866.0104756, "timestamp_iso": "2026-06-02T17:01:06.010476", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408866.011056, "timestamp_iso": "2026-06-02T17:01:06.011058", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408926.172521, "timestamp_iso": "2026-06-02T17:02:06.172522", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408926.1730096, "timestamp_iso": "2026-06-02T17:02:06.173011", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780408986.324602, "timestamp_iso": "2026-06-02T17:03:06.324603", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780408986.3253174, "timestamp_iso": "2026-06-02T17:03:06.325320", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409046.4996698, "timestamp_iso": "2026-06-02T17:04:06.499670", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409046.500298, "timestamp_iso": "2026-06-02T17:04:06.500300", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409106.711605, "timestamp_iso": "2026-06-02T17:05:06.711606", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409106.7121403, "timestamp_iso": "2026-06-02T17:05:06.712142", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409167.150521, "timestamp_iso": "2026-06-02T17:06:07.150522", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409167.1510248, "timestamp_iso": "2026-06-02T17:06:07.151026", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409227.3102822, "timestamp_iso": "2026-06-02T17:07:07.310286", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409227.3121347, "timestamp_iso": "2026-06-02T17:07:07.312139", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409287.5045369, "timestamp_iso": "2026-06-02T17:08:07.504542", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409287.5064616, "timestamp_iso": "2026-06-02T17:08:07.506469", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409347.7068038, "timestamp_iso": "2026-06-02T17:09:07.706806", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409347.7085164, "timestamp_iso": "2026-06-02T17:09:07.708521", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409407.8993526, "timestamp_iso": "2026-06-02T17:10:07.899355", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409407.9004598, "timestamp_iso": "2026-06-02T17:10:07.900462", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409468.0799391, "timestamp_iso": "2026-06-02T17:11:08.079939", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409468.080492, "timestamp_iso": "2026-06-02T17:11:08.080493", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409528.2357504, "timestamp_iso": "2026-06-02T17:12:08.235752", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409528.2364466, "timestamp_iso": "2026-06-02T17:12:08.236449", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409588.4185288, "timestamp_iso": "2026-06-02T17:13:08.418530", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409588.4190826, "timestamp_iso": "2026-06-02T17:13:08.419085", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409648.6208322, "timestamp_iso": "2026-06-02T17:14:08.620833", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409648.621427, "timestamp_iso": "2026-06-02T17:14:08.621429", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409708.8300157, "timestamp_iso": "2026-06-02T17:15:08.830021", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409708.831815, "timestamp_iso": "2026-06-02T17:15:08.831820", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409769.045892, "timestamp_iso": "2026-06-02T17:16:09.045895", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409769.047044, "timestamp_iso": "2026-06-02T17:16:09.047047", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409829.2549863, "timestamp_iso": "2026-06-02T17:17:09.254987", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409829.255489, "timestamp_iso": "2026-06-02T17:17:09.255490", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409889.412326, "timestamp_iso": "2026-06-02T17:18:09.412327", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409889.4132001, "timestamp_iso": "2026-06-02T17:18:09.413203", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780409949.742613, "timestamp_iso": "2026-06-02T17:19:09.742616", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780409949.7441423, "timestamp_iso": "2026-06-02T17:19:09.744146", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410009.920134, "timestamp_iso": "2026-06-02T17:20:09.920138", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410009.9237795, "timestamp_iso": "2026-06-02T17:20:09.923786", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410070.11144, "timestamp_iso": "2026-06-02T17:21:10.111445", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410070.1133592, "timestamp_iso": "2026-06-02T17:21:10.113367", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410130.3020964, "timestamp_iso": "2026-06-02T17:22:10.302098", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410130.3031948, "timestamp_iso": "2026-06-02T17:22:10.303197", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410190.526743, "timestamp_iso": "2026-06-02T17:23:10.526747", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410190.5284672, "timestamp_iso": "2026-06-02T17:23:10.528472", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410250.716139, "timestamp_iso": "2026-06-02T17:24:10.716139", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410250.716649, "timestamp_iso": "2026-06-02T17:24:10.716651", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410310.9524329, "timestamp_iso": "2026-06-02T17:25:10.952434", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410310.9530077, "timestamp_iso": "2026-06-02T17:25:10.953010", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410371.39389, "timestamp_iso": "2026-06-02T17:26:11.393890", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410371.394451, "timestamp_iso": "2026-06-02T17:26:11.394453", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410431.5785525, "timestamp_iso": "2026-06-02T17:27:11.578554", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410431.579228, "timestamp_iso": "2026-06-02T17:27:11.579230", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410491.8163624, "timestamp_iso": "2026-06-02T17:28:11.816363", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410491.8168461, "timestamp_iso": "2026-06-02T17:28:11.816847", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410551.9750752, "timestamp_iso": "2026-06-02T17:29:11.975077", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410551.9757102, "timestamp_iso": "2026-06-02T17:29:11.975713", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410612.1419857, "timestamp_iso": "2026-06-02T17:30:12.141987", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410612.1424942, "timestamp_iso": "2026-06-02T17:30:12.142495", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410672.3689494, "timestamp_iso": "2026-06-02T17:31:12.368951", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410672.3695712, "timestamp_iso": "2026-06-02T17:31:12.369573", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410732.6223657, "timestamp_iso": "2026-06-02T17:32:12.622367", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410732.6229134, "timestamp_iso": "2026-06-02T17:32:12.622915", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410792.785574, "timestamp_iso": "2026-06-02T17:33:12.785578", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410792.7870739, "timestamp_iso": "2026-06-02T17:33:12.787079", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410852.9843073, "timestamp_iso": "2026-06-02T17:34:12.984311", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410852.9859622, "timestamp_iso": "2026-06-02T17:34:12.985967", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410913.1677117, "timestamp_iso": "2026-06-02T17:35:13.167713", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410913.1686902, "timestamp_iso": "2026-06-02T17:35:13.168693", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780410973.3579066, "timestamp_iso": "2026-06-02T17:36:13.357909", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780410973.3590727, "timestamp_iso": "2026-06-02T17:36:13.359076", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411033.5476305, "timestamp_iso": "2026-06-02T17:37:13.547631", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411033.548119, "timestamp_iso": "2026-06-02T17:37:13.548120", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411093.7023692, "timestamp_iso": "2026-06-02T17:38:13.702373", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411093.7038898, "timestamp_iso": "2026-06-02T17:38:13.703894", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411154.0413935, "timestamp_iso": "2026-06-02T17:39:14.041394", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411154.0425043, "timestamp_iso": "2026-06-02T17:39:14.042506", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411214.3093095, "timestamp_iso": "2026-06-02T17:40:14.309314", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411214.3108006, "timestamp_iso": "2026-06-02T17:40:14.310805", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411274.517688, "timestamp_iso": "2026-06-02T17:41:14.517689", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411274.5189042, "timestamp_iso": "2026-06-02T17:41:14.518907", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411334.850823, "timestamp_iso": "2026-06-02T17:42:14.850824", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411334.8519049, "timestamp_iso": "2026-06-02T17:42:14.851907", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411395.0797045, "timestamp_iso": "2026-06-02T17:43:15.079705", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411395.0802865, "timestamp_iso": "2026-06-02T17:43:15.080289", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411455.3865943, "timestamp_iso": "2026-06-02T17:44:15.386596", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411455.3877575, "timestamp_iso": "2026-06-02T17:44:15.387760", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411515.9167657, "timestamp_iso": "2026-06-02T17:45:15.916766", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411515.9173179, "timestamp_iso": "2026-06-02T17:45:15.917319", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411576.103494, "timestamp_iso": "2026-06-02T17:46:16.103496", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411576.1040747, "timestamp_iso": "2026-06-02T17:46:16.104076", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411636.3161547, "timestamp_iso": "2026-06-02T17:47:16.316156", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411636.3167021, "timestamp_iso": "2026-06-02T17:47:16.316704", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411696.4942613, "timestamp_iso": "2026-06-02T17:48:16.494262", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411696.494787, "timestamp_iso": "2026-06-02T17:48:16.494788", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411756.701097, "timestamp_iso": "2026-06-02T17:49:16.701098", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411756.7016878, "timestamp_iso": "2026-06-02T17:49:16.701689", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411816.8992634, "timestamp_iso": "2026-06-02T17:50:16.899264", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411816.8997955, "timestamp_iso": "2026-06-02T17:50:16.899797", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411877.0808334, "timestamp_iso": "2026-06-02T17:51:17.080836", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411877.0822968, "timestamp_iso": "2026-06-02T17:51:17.082302", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411937.3276794, "timestamp_iso": "2026-06-02T17:52:17.327681", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411937.3283243, "timestamp_iso": "2026-06-02T17:52:17.328326", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780411997.5513573, "timestamp_iso": "2026-06-02T17:53:17.551360", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780411997.552973, "timestamp_iso": "2026-06-02T17:53:17.552978", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412057.7622848, "timestamp_iso": "2026-06-02T17:54:17.762286", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412057.7628527, "timestamp_iso": "2026-06-02T17:54:17.762854", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412117.9813447, "timestamp_iso": "2026-06-02T17:55:17.981345", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412117.9819136, "timestamp_iso": "2026-06-02T17:55:17.981915", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412178.13975, "timestamp_iso": "2026-06-02T17:56:18.139751", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412178.140329, "timestamp_iso": "2026-06-02T17:56:18.140330", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412238.3160768, "timestamp_iso": "2026-06-02T17:57:18.316077", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412238.316698, "timestamp_iso": "2026-06-02T17:57:18.316700", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412298.722736, "timestamp_iso": "2026-06-02T17:58:18.722739", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412298.7232354, "timestamp_iso": "2026-06-02T17:58:18.723236", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412358.8967059, "timestamp_iso": "2026-06-02T17:59:18.896707", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412358.897347, "timestamp_iso": "2026-06-02T17:59:18.897349", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412420.1352975, "timestamp_iso": "2026-06-02T18:00:20.135300", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412420.1606455, "timestamp_iso": "2026-06-02T18:00:20.160648", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412481.7350698, "timestamp_iso": "2026-06-02T18:01:21.735070", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412481.7356663, "timestamp_iso": "2026-06-02T18:01:21.735668", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412542.6024575, "timestamp_iso": "2026-06-02T18:02:22.602459", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412542.6676412, "timestamp_iso": "2026-06-02T18:02:22.667644", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412604.030061, "timestamp_iso": "2026-06-02T18:03:24.030062", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412604.030599, "timestamp_iso": "2026-06-02T18:03:24.030601", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412664.3028882, "timestamp_iso": "2026-06-02T18:04:24.302889", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412664.3035302, "timestamp_iso": "2026-06-02T18:04:24.303532", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412724.6686428, "timestamp_iso": "2026-06-02T18:05:24.668643", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412724.6695487, "timestamp_iso": "2026-06-02T18:05:24.669553", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412785.9407527, "timestamp_iso": "2026-06-02T18:06:25.940755", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412785.9419086, "timestamp_iso": "2026-06-02T18:06:25.941911", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412846.4126294, "timestamp_iso": "2026-06-02T18:07:26.412632", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412846.4142282, "timestamp_iso": "2026-06-02T18:07:26.414234", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412906.9179382, "timestamp_iso": "2026-06-02T18:08:26.917939", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412906.9184127, "timestamp_iso": "2026-06-02T18:08:26.918414", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780412967.0758843, "timestamp_iso": "2026-06-02T18:09:27.075885", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780412967.1092544, "timestamp_iso": "2026-06-02T18:09:27.109257", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}
+{"timestamp": 1780413027.3012526, "timestamp_iso": "2026-06-02T18:10:27.301254", "stage": "POSITION_QUERY", "ticket": null, "data": {"symbol": "XAUUSDm", "memory_states": 2}}
+{"timestamp": 1780413027.3024495, "timestamp_iso": "2026-06-02T18:10:27.302452", "stage": "DISAPPEARED_LIST_CREATED", "ticket": null, "data": {"disappeared_count": 1, "tickets": [2802137567], "broker_open": 1, "memory_states": 2}}

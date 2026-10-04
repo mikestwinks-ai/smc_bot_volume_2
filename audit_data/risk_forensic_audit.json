@@ -1,0 +1,138 @@
+{
+  "summary": {
+    "total_trades_mt5_grouped": 67,
+    "total_trades_with_sizing_meta": 2,
+    "floor_constrained_count": 2,
+    "floor_constrained_pct": 100.0,
+    "avg_intended_risk_pct": 0.5,
+    "avg_actual_risk_pct": 1.9724460900720533,
+    "max_actual_risk_pct": 3.228952180144097,
+    "min_actual_risk_pct": 0.7159400000000096,
+    "sl_points_avg": 2769.9500000000626,
+    "sl_points_median": 2769.9500000000626,
+    "sl_points_min": 1960.2000000000771,
+    "sl_points_max": 3579.700000000048
+  },
+  "required_balance_by_risk_from_avg_sl": {
+    "0.5": 5539.900000000125,
+    "1.0": 2769.9500000000626,
+    "2.0": 1384.9750000000313
+  },
+  "scalability": [
+    {
+      "balance": 20,
+      "avg_actual_risk_pct": 138.49750000000313,
+      "max_actual_risk_pct": 178.9850000000024,
+      "violating_config_pct_of_trades": 100.0,
+      "min_lot_override_pct": 100.0
+    },
+    {
+      "balance": 50,
+      "avg_actual_risk_pct": 55.39900000000125,
+      "max_actual_risk_pct": 71.59400000000096,
+      "violating_config_pct_of_trades": 100.0,
+      "min_lot_override_pct": 100.0
+    },
+    {
+      "balance": 100,
+      "avg_actual_risk_pct": 27.699500000000626,
+      "max_actual_risk_pct": 35.79700000000048,
+      "violating_config_pct_of_trades": 100.0,
+      "min_lot_override_pct": 100.0
+    },
+    {
+      "balance": 250,
+      "avg_actual_risk_pct": 11.079800000000251,
+      "max_actual_risk_pct": 14.318800000000191,
+      "violating_config_pct_of_trades": 100.0,
+      "min_lot_override_pct": 100.0
+    },
+    {
+      "balance": 500,
+      "avg_actual_risk_pct": 5.5399000000001255,
+      "max_actual_risk_pct": 7.159400000000096,
+      "violating_config_pct_of_trades": 100.0,
+      "min_lot_override_pct": 100.0
+    },
+    {
+      "balance": 1000,
+      "avg_actual_risk_pct": 2.7699500000000628,
+      "max_actual_risk_pct": 3.579700000000048,
+      "violating_config_pct_of_trades": 100.0,
+      "min_lot_override_pct": 100.0
+    },
+    {
+      "balance": 2500,
+      "avg_actual_risk_pct": 1.107980000000025,
+      "max_actual_risk_pct": 1.4318800000000191,
+      "violating_config_pct_of_trades": 100.0,
+      "min_lot_override_pct": 100.0
+    },
+    {
+      "balance": 5000,
+      "avg_actual_risk_pct": 0.5539900000000125,
+      "max_actual_risk_pct": 0.7159400000000096,
+      "violating_config_pct_of_trades": 50.0,
+      "min_lot_override_pct": 50.0
+    },
+    {
+      "balance": 10000,
+      "avg_actual_risk_pct": 0.47301500000001395,
+      "max_actual_risk_pct": 0.5880600000000231,
+      "violating_config_pct_of_trades": 50.0,
+      "min_lot_override_pct": 0.0
+    }
+  ],
+  "trades": [
+    {
+      "ticket": 2802137567,
+      "open_time": "2026-06-02 11:00:54",
+      "entry_price": 4535.505,
+      "volume": 0.01,
+      "realized_pnl": -19.7,
+      "close_time": "2026-06-02 15:54:16",
+      "close_price": 4515.805,
+      "open_time_log": "2026-06-02 11:00:53",
+      "submitted_lot": 0.01,
+      "entry": 4535.407,
+      "sl": 4515.805,
+      "final_lot_from_risk_log": 0.01,
+      "balance": 607.07,
+      "risk_pct": 0.5,
+      "sl_points": 1960.2000000000771,
+      "tick_val": 0.1,
+      "line": "2026-06-02 11:00:53 | INFO     | execution.risk_manager | Lot size: 0.01 | Balance: 607.07 | Risk: 0.50% | SL pts: 1960.2000000000771 | tick_val: 0.1",
+      "raw_lot": 0.0015484899500050407,
+      "clamped_min": true,
+      "intended_risk_amt": 3.03535,
+      "worst_case_sl_loss": 19.60200000000077,
+      "actual_risk_pct_at_entry": 3.228952180144097,
+      "min_lot": 0.01
+    },
+    {
+      "ticket": 2803422863,
+      "open_time": "2026-06-02 16:47:03",
+      "entry_price": 4509.992,
+      "volume": 0.01,
+      "realized_pnl": null,
+      "close_time": null,
+      "close_price": null,
+      "open_time_log": "2026-06-02 16:47:03",
+      "submitted_lot": 0.01,
+      "entry": 4509.992,
+      "sl": 4474.195,
+      "final_lot_from_risk_log": 0.01,
+      "balance": 5000.0,
+      "risk_pct": 0.5,
+      "sl_points": 3579.700000000048,
+      "tick_val": 0.1,
+      "line": "2026-06-02 16:47:03 | INFO     | execution.risk_manager | Lot size: 0.01 | Balance: 5000.00 | Risk: 0.50% | SL pts: 3579.700000000048 | tick_val: 0.1",
+      "raw_lot": 0.0069838254602340045,
+      "clamped_min": true,
+      "intended_risk_amt": 25.0,
+      "worst_case_sl_loss": 35.79700000000048,
+      "actual_risk_pct_at_entry": 0.7159400000000096,
+      "min_lot": 0.01
+    }
+  ]
+}

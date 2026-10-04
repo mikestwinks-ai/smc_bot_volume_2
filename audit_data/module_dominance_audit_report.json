@@ -1,0 +1,107 @@
+{
+  "executive_summary": {
+    "total_signals": 2076,
+    "total_trades": 2,
+    "modules_analyzed": 7
+  },
+  "module_performance": {
+    "HTF_Bias": {
+      "activation_rate": 100.0,
+      "active_count": 2076,
+      "total_count": 2076
+    },
+    "Liquidity_Sweep": {
+      "activation_rate": 74.56647398843931,
+      "active_count": 1548,
+      "total_count": 2076
+    },
+    "Displacement": {
+      "activation_rate": 100.0,
+      "active_count": 2076,
+      "total_count": 2076
+    },
+    "OB": {
+      "activation_rate": 100.0,
+      "active_count": 2076,
+      "total_count": 2076
+    },
+    "FVG": {
+      "activation_rate": 94.99036608863199,
+      "active_count": 1972,
+      "total_count": 2076
+    },
+    "Breaker": {
+      "activation_rate": 17.29287090558767,
+      "active_count": 359,
+      "total_count": 2076
+    },
+    "CHoCH": {
+      "activation_rate": 44.99036608863199,
+      "active_count": 934,
+      "total_count": 2076
+    }
+  },
+  "combinations": {
+    "HTF+SWEEP+DISP+OB+FVG": 797,
+    "HTF+SWEEP+DISP+OB+FVG+CHoCH": 484,
+    "HTF+DISP+OB+FVG+CHoCH": 205,
+    "HTF+DISP+OB+FVG+BRK+CHoCH": 49,
+    "HTF+DISP+OB+FVG+BRK": 147,
+    "HTF+DISP+OB+FVG": 127,
+    "HTF+SWEEP+DISP+OB+FVG+BRK+CHoCH": 160,
+    "HTF+SWEEP+DISP+OB+CHoCH": 36,
+    "HTF+SWEEP+DISP+OB": 68,
+    "HTF+SWEEP+DISP+OB+FVG+BRK": 3
+  },
+  "rankings": [
+    {
+      "module": "HTF_Bias",
+      "activation_rate": 100.0,
+      "score_with": 8.236994219653178,
+      "score_without": 0,
+      "score_delta": 8.236994219653178
+    },
+    {
+      "module": "Displacement",
+      "activation_rate": 100.0,
+      "score_with": 8.236994219653178,
+      "score_without": 0,
+      "score_delta": 8.236994219653178
+    },
+    {
+      "module": "OB",
+      "activation_rate": 100.0,
+      "score_with": 8.236994219653178,
+      "score_without": 0,
+      "score_delta": 8.236994219653178
+    },
+    {
+      "module": "FVG",
+      "activation_rate": 94.99036608863199,
+      "score_with": 8.28397565922921,
+      "score_without": 7.346153846153846,
+      "score_delta": 0.9378218130753639
+    },
+    {
+      "module": "Liquidity_Sweep",
+      "activation_rate": 74.56647398843931,
+      "score_with": 8.582687338501293,
+      "score_without": 7.223484848484849,
+      "score_delta": 1.359202490016444
+    },
+    {
+      "module": "CHoCH",
+      "activation_rate": 44.99036608863199,
+      "score_with": 8.86509635974304,
+      "score_without": 7.723292469352014,
+      "score_delta": 1.1418038903910261
+    },
+    {
+      "module": "Breaker",
+      "activation_rate": 17.29287090558767,
+      "score_with": 9.49025069637883,
+      "score_without": 7.974956319161328,
+      "score_delta": 1.5152943772175016
+    }
+  ]
+}

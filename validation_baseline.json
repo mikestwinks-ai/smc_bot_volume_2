@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-06-01T09:30:29.521042",
+  "broker": {
+    "timestamp": 1780295429.504252,
+    "timestamp_str": "2026-06-01T09:30:29.504254",
+    "open_positions": 0,
+    "position_tickets": [],
+    "closed_deals_today": 0,
+    "daily_pnl": 0.0
+  },
+  "memory": {
+    "timestamp": 1780295429.5106626,
+    "count": 1,
+    "tickets": [
+      "2794340178"
+    ],
+    "trades": {
+      "2794340178": {
+        "ticket": 2794340178,
+        "direction": "bullish",
+        "entry": 4535.6810000000005,
+        "initial_sl": 4512.317,
+        "initial_tp": 4581.713,
+        "state": "ENTRY_ACTIVE",
+        "be_activated": false,
+        "rr_achieved": 1.3111624721793558,
+        "last_sl": 4512.317,
+        "last_logged": 4566.315,
+        "partial_close_attempted": false,
+        "force_close_attempted": false
+      }
+    }
+  },
+  "persistence": {
+    "risk": {
+      "day": "2026-05-29",
+      "trades_today": 2,
+      "closed_trades_today": 2,
+      "daily_pnl": 52.160000000000004,
+      "consecutive_losses": 0,
+      "peak_balance": 624.43,
+      "peak_equity": 624.43,
+      "active_risk_pct": 0.5,
+      "bot_halted": false
+    },
+    "cooldowns": {
+      "XAUUSDm_bullish": {
+        "exit_time": 1780066835.9097128,
+        "exit_reason": "FORCE_CLOSE",
+        "cooldown_secs": 900,
+        "saved_at": "2026-05-29T18:00:35.909725"
+      }
+    }
+  }
+}

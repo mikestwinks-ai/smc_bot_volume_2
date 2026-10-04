@@ -1,0 +1,8 @@
+{
+  "XAUUSDm_bullish": {
+    "exit_time": 1780404902.5011768,
+    "exit_reason": "SL",
+    "cooldown_secs": 900,
+    "saved_at": "2026-06-02T15:55:02.501194"
+  }
+}

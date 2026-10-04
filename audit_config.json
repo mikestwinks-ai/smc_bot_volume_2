@@ -1,0 +1,17 @@
+{
+  "audit_name": "Live Trade Closure Forensic Audit",
+  "created": "2026-06-01T10:11:42.955854",
+  "forensic_log": "logs/forensic_closure_audit.jsonl",
+  "analyzer": "closure_timeline_analyzer.py",
+  "bot_entry": "python main.py",
+  "expected_stages": 16,
+  "critical_events": [
+    "DISAPPEARED_LIST_CREATED",
+    "DEAL_FOUND",
+    "DEAL_PARSED",
+    "TRADE_CLOSED_EVENT",
+    "DAILY_PNL_UPDATED",
+    "COOLDOWN_REGISTERED",
+    "CLOSURE_COMPLETE"
+  ]
+}
